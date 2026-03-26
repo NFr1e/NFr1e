@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there 👋 I'm NFr1e
+
+### AboutMe
+🌱 I’m currently learning 
+[![My Skills](https://skillicons.dev/icons?i=cs,unity)](https://skillicons.dev)
 
 <!--
 **NFr1e/NFr1e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
